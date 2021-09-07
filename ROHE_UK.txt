@@ -1,0 +1,261 @@
+Model run 2021090612Z
+Started looking for data at 17:00Z
+Data complete at 17:05ZZ - Processing 2021090612Z Run 
+Location;Valid;Forecast;Icon;Partday Icon;Partday Icon;Partday Icon;Partday Icon
+
+NORTHLAND; Tue 07 Sep 2021; Cloudy with scattered rain, clearing to fine in the evening. Northerlies, turning westerly in the afternoon.; Showers; Showers;Rain;Rain;Fine;
+NORTHLAND; Wed 08 Sep 2021; Fine at first, then a few showers developing in the morning. Fresh westerlies, rising to gale southwesterlies for a time in the afternoon and evening.; Showers; Fine;WindRain;Wind;Fine;
+NORTHLAND; Thu 09 Sep 2021; Fine with a few clouds. Fresh westerlies, easing in the morning.; PartCloudy; Fine;Fine;Fine;PartCloudy;
+NORTHLAND; Fri 10 Sep 2021; A few showers, clearing to fine with high cloud in the morning. Westerlies, rising to strong northwesterlies in the morning.; FewShowers; FewShowers;PartCloudy;PartCloudy;Wind;
+NORTHLAND; Sat 11 Sep 2021; Rain, clearing to fine in the morning. Fresh southwesterlies, easing to a light breeze in the evening.; Showers; Rain;Fine;Fine;Fine;
+NORTHLAND; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+AUCKLAND; Tue 07 Sep 2021; Cloudy with scattered rain, clearing to fine in the evening. Fresh northerlies, easing to westerlies in the evening.; Showers; Cloudy;Showers;Showers;Fine;
+AUCKLAND; Wed 08 Sep 2021; Fine at first, then a few showers developing in the morning. Fresh westerlies, rising to gale southwesterlies for a time in the afternoon and evening.; Showers; Fine;WindRain;Wind;Wind;
+AUCKLAND; Thu 09 Sep 2021; Fine with a few clouds. Fresh westerlies, easing in the evening.; Fine; Fine;Fine;Fine;Fine;
+AUCKLAND; Fri 10 Sep 2021; Fine with high cloud, then becoming cloudy with drizzle developing in the evening. Westerlies, rising to strong northwesterlies in the morning.; Wind; Fine;Wind;Wind;Wind;
+AUCKLAND; Sat 11 Sep 2021; Showers, some heavy, clearing to fine in the morning. Fresh southwesterlies, easing to a light breeze in the evening.; Showers; Showers;Wind;Fine;Fine;
+AUCKLAND; Sun 12 Sep 2021; Mostly cloudy, with fine spells and isolated showers developing in the evening. Westerly breezes.; Cloudy; Fine;Cloudy;Cloudy;Fine;
+
+
+COROMANDEL PENINSULA; Tue 07 Sep 2021; Cloudy with scattered rain, becoming widespread in the afternoon. Fresh northerlies, easing to westerlies in the evening.; Showers; Cloudy;Rain;Showers;Fine;
+COROMANDEL PENINSULA; Wed 08 Sep 2021; Fine at first, then becoming cloudy with scattered rain developing in the morning. Fresh westerlies, rising to gale southwesterlies for a time in the afternoon and evening.; FewShowers; Fine;Wind;Wind;Fine;
+COROMANDEL PENINSULA; Thu 09 Sep 2021; Fine with a few clouds. Westerlies, becoming fresh in the morning.; Fine; Fine;Fine;Fine;PartCloudy;
+COROMANDEL PENINSULA; Fri 10 Sep 2021; Fine with high cloud, becoming cloudy in the evening. Fresh westerlies, rising to gale northwesterlies in the evening.; PartCloudy; Fine;PartCloudy;PartCloudy;Wind;
+COROMANDEL PENINSULA; Sat 11 Sep 2021; Rain, clearing to fine in the morning. Fresh southwesterlies, easing to a light breeze in the evening.; Showers; Rain;Fine;Fine;Fine;
+COROMANDEL PENINSULA; Sun 12 Sep 2021; Mostly cloudy, becoming fine in the evening. Westerly breezes developing in the morning.; Fine; Fine;Cloudy;Cloudy;Fine;
+
+
+WAIKATO; Tue 07 Sep 2021; Cloudy with patchy drizzle, becoming showers in the morning. Fresh northerlies, easing to westerlies in the evening.; Showers; Cloudy;Rain;Showers;FewShowers;
+WAIKATO; Wed 08 Sep 2021; Fine at first, then a few showers developing in the morning. Westerlies, rising to strong southwesterlies for a time in the afternoon and evening.; Showers; Fine;Showers;Wind;Fine;
+WAIKATO; Thu 09 Sep 2021; Fine with a few clouds. Fresh westerlies, easing in the morning.; Fine; Fine;Fine;PartCloudy;Fine;
+WAIKATO; Fri 10 Sep 2021; Partly cloudy, then scattered rain developing in the evening. Northwesterlies, becoming fresh in the morning.; FewShowers; Fine;Wind;PartCloudy;Showers;
+WAIKATO; Sat 11 Sep 2021; Showers, some heavy, clearing to fine in the morning. Fresh southwesterlies, easing to a light breeze in the morning.; Showers; Showers;Fine;Fine;Fine;
+WAIKATO; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;PartCloudy;
+
+
+WAITOMO; Tue 07 Sep 2021; Cloudy with scattered rain, turning to drizzle in the afternoon. Fresh northerlies, easing to westerlies in the evening.; Showers; Cloudy;Showers;Showers;Drizzle;
+WAITOMO; Wed 08 Sep 2021; Fine with a few clouds at first, then showers developing in the morning. Westerlies, rising to strong southwesterlies for a time in the afternoon and evening.; Showers; Fine;Rain;Wind;Fine;
+WAITOMO; Thu 09 Sep 2021; Partly cloudy, with a few showers for a time in the afternoon. Fresh westerlies, easing in the morning.; FewShowers; Fine;Cloudy;FewShowers;Fine;
+WAITOMO; Fri 10 Sep 2021; Mostly cloudy, then rain developing in the evening. Fresh northwesterlies, easing to southwesterlies in the evening.; Showers; Cloudy;Wind;Wind;Rain;
+WAITOMO; Sat 11 Sep 2021; Fine. Southwesterlies, easing to light winds in the evening.; Fine; Fine;Fine;Fine;Fine;
+WAITOMO; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;PartCloudy;
+
+
+BAY OF PLENTY; Tue 07 Sep 2021; Cloudy with scattered rain, becoming widespread in the afternoon. Fresh northerlies, easing to northwesterly breezes in the evening.; Rain; Showers;Showers;Rain;Rain;
+BAY OF PLENTY; Wed 08 Sep 2021; A few showers, becoming more frequent for a time in the afternoon and evening. Westerlies, becoming fresh for a time in the afternoon and evening.; Showers; Fine;Showers;Showers;FewShowers;
+BAY OF PLENTY; Thu 09 Sep 2021; Fine with a few clouds. Westerlies developing in the morning.; Fine; Fine;Fine;Fine;PartCloudy;
+BAY OF PLENTY; Fri 10 Sep 2021; Partly cloudy, then scattered rain developing in the evening. Northwesterlies, becoming fresh in the morning.; FewShowers; PartCloudy;FewShowers;Cloudy;Showers;
+BAY OF PLENTY; Sat 11 Sep 2021; Rain, clearing to fine in the morning. Southwesterlies, easing to light winds in the morning.; Showers; Rain;Fine;Fine;Fine;
+BAY OF PLENTY; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing in the morning.; Fine; Fine;Cloudy;PartCloudy;Fine;
+
+
+ROTORUA; Tue 07 Sep 2021; Cloudy with scattered rain, turning to drizzle in the evening. Northerlies.; Showers; Showers;Rain;Showers;Drizzle;
+ROTORUA; Wed 08 Sep 2021; A few showers, clearing to fine in the afternoon. Westerly breezes, rising to fresh southwesterlies for a time in the afternoon and evening.; FewShowers; Cloudy;Showers;Fine;Fine;
+ROTORUA; Thu 09 Sep 2021; Partly cloudy, becoming fine for a time in the afternoon. Westerlies.; PartCloudy; Cloudy;PartCloudy;Fine;Cloudy;
+ROTORUA; Fri 10 Sep 2021; Mostly cloudy, with patchy drizzle developing in the evening. Northwesterlies, becoming fresh in the morning.; Cloudy; Fine;PartCloudy;Cloudy;Cloudy;
+ROTORUA; Sat 11 Sep 2021; Rain, clearing to fine with a few clouds in the morning. Southwesterlies, easing to light winds in the morning.; Showers; Rain;Fine;Fine;Fine;
+ROTORUA; Sun 12 Sep 2021; Mostly cloudy, with a few showers for a time in the afternoon. Westerly breezes developing in the morning.; Cloudy; Fine;Cloudy;FewShowers;Cloudy;
+
+
+TAUPO; Tue 07 Sep 2021; Cloudy with scattered rain, becoming widespread for a time in the afternoon and evening. Northerlies, turning westerly in the evening.; Showers; Showers;Showers;Rain;Showers;
+TAUPO; Wed 08 Sep 2021; Cloudy with scattered rain, becoming mainly fine with isolated showers in the afternoon. Northwesterlies, rising to fresh southwesterlies for a time in the afternoon and evening.; Showers; Cloudy;Showers;PartCloudy;FewShowers;
+TAUPO; Thu 09 Sep 2021; Mostly cloudy, with patchy drizzle for a time in the afternoon. Westerlies.; FewShowers; Cloudy;Cloudy;Cloudy;Cloudy;
+TAUPO; Fri 10 Sep 2021; Cloudy with scattered rain, clearing for a time in the afternoon, but remaining cloudy. Fresh northwesterlies.; Showers; Showers;FewShowers;Cloudy;Showers;
+TAUPO; Sat 11 Sep 2021; Rain, clearing to fine with a few clouds in the morning. Southwesterlies, easing to light winds in the morning.; FewShowers; Rain;Fine;Fine;Fine;
+TAUPO; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerlies developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+TAUMARUNUI; Tue 07 Sep 2021; Cloudy with scattered rain, becoming widespread for a time in the afternoon and evening. Fresh northerlies, easing to northwesterly breezes in the afternoon.; Showers; Cloudy;Showers;Rain;Showers;
+TAUMARUNUI; Wed 08 Sep 2021; Showers, clearing to fine with a few clouds in the afternoon. Westerly breezes, rising to fresh southwesterlies for a time in the afternoon and evening.; Showers; Cloudy;Rain;Fine;Fine;
+TAUMARUNUI; Thu 09 Sep 2021; Mostly cloudy, with a few showers for a time in the afternoon. Westerlies.; FewShowers; Cloudy;Cloudy;FewShowers;Fine;
+TAUMARUNUI; Fri 10 Sep 2021; Partly cloudy with isolated showers, becoming rain in the evening. Fresh northwesterlies, easing to westerly breezes in the evening.; Showers; Showers;PartCloudy;Cloudy;Rain;
+TAUMARUNUI; Sat 11 Sep 2021; Fine. Southwesterlies, easing to light winds in the morning.; Fine; Fine;Fine;Fine;Fine;
+TAUMARUNUI; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+TAIHAPE; Tue 07 Sep 2021; Cloudy with scattered rain. Fresh northerlies, easing to westerlies in the afternoon.; Showers; Showers;Showers;Showers;Showers;
+TAIHAPE; Wed 08 Sep 2021; Mostly cloudy at first, then scattered rain developing in the morning. Westerly breezes, rising to fresh southwesterlies for a time in the afternoon and evening.; Showers; Cloudy;Showers;Showers;Showers;
+TAIHAPE; Thu 09 Sep 2021; Mostly cloudy, with a few showers for a time in the afternoon. Westerlies.; Cloudy; Cloudy;Cloudy;FewShowers;Fine;
+TAIHAPE; Fri 10 Sep 2021; Partly cloudy with isolated showers, becoming rain in the evening. Strong northwesterlies, easing to westerlies in the evening.; Showers; Showers;Wind;Wind;Rain;
+TAIHAPE; Sat 11 Sep 2021; Drizzle, clearing and becoming fine with a few clouds in the morning. Southerlies, easing to light winds in the morning.; PartCloudy; Drizzle;Cloudy;Fine;Fine;
+TAIHAPE; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+GISBORNE; Tue 07 Sep 2021; A few showers, becoming more frequent in the afternoon. Northerlies, becoming fresh in the morning.; Showers; FewShowers;Showers;FewShowers;Showers;
+GISBORNE; Wed 08 Sep 2021; Mainly fine with isolated showers, becoming cloudy with scattered rain for a time in the afternoon and evening. Northwesterlies, turning southwesterly in the afternoon.; FewShowers; Fine;FewShowers;Showers;FewShowers;
+GISBORNE; Thu 09 Sep 2021; Fine, becoming partly cloudy in the evening. Westerlies, becoming fresh in the evening.; Fine; Fine;Fine;Fine;PartCloudy;
+GISBORNE; Fri 10 Sep 2021; Partly cloudy, with isolated showers developing in the evening. Fresh northwesterlies.; FewShowers; PartCloudy;PartCloudy;PartCloudy;PartCloudy;
+GISBORNE; Sat 11 Sep 2021; Rain, clearing to fine with a few clouds in the morning. Westerlies, turning southerly in the morning.; Showers; Rain;Cloudy;Fine;Fine;
+GISBORNE; Sun 12 Sep 2021; Fine with a few clouds. Northwesterly breezes developing in the morning.; Fine; Fine;Fine;Fine;Fine;
+
+
+HAWKES BAY; Tue 07 Sep 2021; Cloudy with scattered rain, becoming mainly fine with isolated showers in the afternoon. Northerlies, becoming fresh for a time in the afternoon and evening.; FewShowers; Showers;Showers;FewShowers;PartCloudy;
+HAWKES BAY; Wed 08 Sep 2021; Fine at first, then a few showers developing in the morning. Northwesterlies, rising to fresh southwesterlies for a time in the afternoon and evening.; FewShowers; Fine;FewShowers;Showers;FewShowers;
+HAWKES BAY; Thu 09 Sep 2021; Fine with a few clouds. Westerly breezes, becoming fresh in the morning.; Fine; Fine;Fine;Fine;PartCloudy;
+HAWKES BAY; Fri 10 Sep 2021; A few showers, clearing for a time in the afternoon, but remaining partly cloudy. Fresh northwesterlies, easing in the evening.; FewShowers; FewShowers;Wind;PartCloudy;FewShowers;
+HAWKES BAY; Sat 11 Sep 2021; Cloudy with scattered rain, clearing to fine with a few clouds in the morning. Southerlies, easing to light winds in the evening.; Showers; Showers;Cloudy;PartCloudy;Fine;
+HAWKES BAY; Sun 12 Sep 2021; Mostly cloudy, becoming fine in the morning. Westerly breezes developing in the morning.; Fine; Fine;Cloudy;Fine;Fine;
+
+
+WAIRARAPA; Tue 07 Sep 2021; Cloudy with scattered rain, becoming mainly fine with isolated showers in the afternoon. Fresh northerlies, rising to strong northwesterlies in the afternoon.; FewShowers; Showers;Showers;FewShowers;FewShowers;
+WAIRARAPA; Wed 08 Sep 2021; A few showers, becoming more frequent for a time in the afternoon and evening. Westerlies, rising to fresh southerlies for a time in the afternoon and evening.; FewShowers; PartCloudy;Showers;Rain;PartCloudy;
+WAIRARAPA; Thu 09 Sep 2021; Fine with a few clouds. Northwesterlies, becoming strong in the morning.; Wind; Fine;Wind;Wind;Wind;
+WAIRARAPA; Fri 10 Sep 2021; A few showers, clearing about the coast for a time in the afternoon, but remaining partly cloudy there. Gale northwesterlies, easing to fresh westerlies in the evening.; Wind; Wind;Wind;Wind;FewShowers;
+WAIRARAPA; Sat 11 Sep 2021; A few showers, clearing for a time in the afternoon, but remaining partly cloudy. Southwesterlies, easing to light winds in the morning.; FewShowers; FewShowers;Cloudy;Fine;Fine;
+WAIRARAPA; Sun 12 Sep 2021; Partly cloudy, becoming fine for a time in the afternoon. Northerly breezes, rising to strong northwesterlies in the morning.; Fine; Fine;Wind;Wind;Wind;
+
+
+TARANAKI; Tue 07 Sep 2021; Showers, becoming drizzle for a time in the afternoon and evening. Fresh northerlies, easing to westerlies in the afternoon.; Showers; Showers;Rain;Drizzle;FewShowers;
+TARANAKI; Wed 08 Sep 2021; A few showers, clearing in the evening, but becoming mostly cloudy. Westerlies, rising to strong southwesterlies for a time in the afternoon and evening.; Showers; Showers;Rain;FewShowers;Cloudy;
+TARANAKI; Thu 09 Sep 2021; Fine with a few clouds. Westerlies, becoming fresh in the morning.; Fine; Fine;Fine;Fine;PartCloudy;
+TARANAKI; Fri 10 Sep 2021; Partly cloudy with isolated showers, becoming rain in the evening. Strong northwesterlies, easing to westerlies in the evening.; Showers; FewShowers;Wind;Wind;Rain;
+TARANAKI; Sat 11 Sep 2021; Mainly fine with isolated showers, clearing in the morning. Southerly breezes.; FewShowers; Fine;PartCloudy;Fine;Fine;
+TARANAKI; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Northwesterlies developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+WANGANUI; Tue 07 Sep 2021; Cloudy at first, with a few showers developing in the morning. Fresh northerlies, easing to westerlies in the afternoon.; FewShowers; Cloudy;Showers;FewShowers;FewShowers;
+WANGANUI; Wed 08 Sep 2021; Fine with a few clouds at first, then becoming cloudy with scattered rain developing in the morning. Westerlies, turning southerly in the afternoon.; Showers; Fine;Showers;Rain;Cloudy;
+WANGANUI; Thu 09 Sep 2021; Mostly cloudy, with fine spells and isolated showers developing in the morning. Westerlies, becoming fresh for a time in the afternoon.; FewShowers; Cloudy;Cloudy;Fine;Fine;
+WANGANUI; Fri 10 Sep 2021; Partly cloudy, then rain developing in the evening. Strong northwesterlies, easing to westerlies in the evening.; Showers; Fine;Wind;Wind;Rain;
+WANGANUI; Sat 11 Sep 2021; Fine with a few clouds. Southwesterlies, easing to light winds in the morning.; Fine; Fine;PartCloudy;Fine;Fine;
+WANGANUI; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Northwesterlies developing in the morning.; Cloudy; Fine;Cloudy;Cloudy;PartCloudy;
+
+
+MANAWATU; Tue 07 Sep 2021; Cloudy with scattered rain, clearing to fine with high cloud for a time in the afternoon and evening. Northerlies, rising to strong northwesterlies for a time in the afternoon and evening.; FewShowers; Cloudy;Showers;PartCloudy;FewShowers;
+MANAWATU; Wed 08 Sep 2021; Fine at first, then becoming cloudy with scattered rain developing in the morning. Northwesterlies, turning southwesterly for a time in the afternoon and evening.; Showers; Fine;Showers;Rain;Cloudy;
+MANAWATU; Thu 09 Sep 2021; Mostly cloudy, with patchy drizzle developing north of Palmerston North in the morning. Northwesterly breezes, rising to fresh westerlies in the morning.; Cloudy; Cloudy;Drizzle;Cloudy;Fine;
+MANAWATU; Fri 10 Sep 2021; Partly cloudy, then rain developing in the evening. Strong northwesterlies, easing to westerlies in the evening.; Wind; Wind;Wind;Wind;Rain;
+MANAWATU; Sat 11 Sep 2021; Mostly cloudy, becoming fine about the coast for a time in the afternoon. Southwesterlies, easing to light winds in the morning.; Fine; Fine;Cloudy;Fine;Fine;
+MANAWATU; Sun 12 Sep 2021; Fine, becoming mostly cloudy in the morning. Northerly breezes, rising to fresh northwesterlies in the morning.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+HOROWHENUA; Tue 07 Sep 2021; Showers. Fresh northerlies, rising to strong northwesterlies in the afternoon.; Showers; Showers;Rain;Wind;Wind;
+HOROWHENUA; Wed 08 Sep 2021; Cloudy with scattered rain, turning to drizzle in the afternoon. Westerlies, rising to fresh southerlies for a time in the afternoon and evening.; Showers; FewShowers;Rain;Cloudy;Cloudy;
+HOROWHENUA; Thu 09 Sep 2021; Partly cloudy, with patchy drizzle developing in the morning. Westerlies, rising to strong northwesterlies in the morning.; Cloudy; PartCloudy;Wind;Wind;Wind;
+HOROWHENUA; Fri 10 Sep 2021; A few showers, becoming more frequent in the morning. Gale northwesterlies, easing to fresh westerlies in the evening.; Wind; Wind;Wind;Wind;Rain;
+HOROWHENUA; Sat 11 Sep 2021; Partly cloudy, becoming fine for a time in the afternoon. Southerlies, easing to light winds in the morning.; Fine; Fine;PartCloudy;Fine;Fine;
+HOROWHENUA; Sun 12 Sep 2021; Fine with a few clouds, becoming cloudy in the evening. Northwesterly breezes, becoming fresh in the morning.; Cloudy; Fine;Wind;PartCloudy;Cloudy;
+
+
+WELLINGTON; Tue 07 Sep 2021; Cloudy with scattered rain, becoming mainly fine with isolated showers in the afternoon. Strong northerlies, rising to gale northwesterlies in the afternoon.; Showers; FewShowers;Showers;Wind;FewShowers;
+WELLINGTON; Wed 08 Sep 2021; Cloudy with scattered rain, clearing in the afternoon, but remaining mostly cloudy. Westerlies, rising to strong southerlies for a time in the afternoon and evening.; Showers; Showers;Showers;Showers;Fine;
+WELLINGTON; Thu 09 Sep 2021; Fine with a few clouds, becoming cloudy for a time in the afternoon. Northwesterlies, becoming strong in the morning.; PartCloudy; Fine;Fine;Cloudy;Wind;
+WELLINGTON; Fri 10 Sep 2021; A few showers. Severe gale northwesterlies, becoming fresh in the evening.; Wind; Wind;Wind;Wind;FewShowers;
+WELLINGTON; Sat 11 Sep 2021; A few showers, clearing in the morning, but remaining partly cloudy. Fresh southerlies, easing to easterly breezes in the morning.; FewShowers; FewShowers;Fine;Fine;Fine;
+WELLINGTON; Sun 12 Sep 2021; Fine with a few clouds, becoming cloudy in the evening. Northwesterlies, becoming strong in the morning.; Fine; Fine;Fine;Fine;Cloudy;
+
+
+NELSON; Tue 07 Sep 2021; Rain, becoming showers in the morning. Northerlies, turning westerly in the afternoon.; Showers; Rain;Rain;Showers;Showers;
+NELSON; Wed 08 Sep 2021; Showers, easing in the morning. Southwesterlies developing in the morning.; Showers; Showers;PartCloudy;FewShowers;Cloudy;
+NELSON; Thu 09 Sep 2021; Fine with a few clouds, but cloudy with scattered rain about the ranges. Westerlies, becoming fresh in the evening.; FewShowers; FewShowers;FewShowers;Cloudy;Cloudy;
+NELSON; Fri 10 Sep 2021; Partly cloudy, then showers developing in the morning. Fresh westerlies, easing in the morning.; Showers; PartCloudy;Showers;Rain;Drizzle;
+NELSON; Sat 11 Sep 2021; Fine with a few clouds. Northerly breezes developing for a time in the afternoon.; Fine; Fine;Fine;Fine;Fine;
+NELSON; Sun 12 Sep 2021; Cloudy with patchy drizzle, clearing in the morning, but remaining mostly cloudy. Westerly breezes.; Cloudy; Cloudy;Cloudy;Cloudy;Showers;
+
+
+BULLER; Tue 07 Sep 2021; Showers, turning to rain for a time in the afternoon and evening. Northerlies, turning westerly in the afternoon.; Showers; Rain;FewShowers;Rain;Showers;
+BULLER; Wed 08 Sep 2021; Cloudy with scattered rain, clearing in the evening, but remaining mostly cloudy. Southwesterlies.; Showers; Rain;Cloudy;Showers;Cloudy;
+BULLER; Thu 09 Sep 2021; Rain, becoming drizzle in the morning. Westerlies developing in the morning.; Rain; Rain;Rain;Drizzle;Showers;
+BULLER; Fri 10 Sep 2021; Cloudy with scattered rain, becoming widespread in the morning. Strong northwesterlies, easing to westerlies in the morning.; Showers; Showers;WindRain;Showers;Fine;
+BULLER; Sat 11 Sep 2021; Fine, becoming partly cloudy in the morning. Light winds.; Fine; Fine;Fine;Fine;Cloudy;
+BULLER; Sun 12 Sep 2021; Drizzle, becoming scattered rain in the morning. Northwesterly breezes developing in the morning.; Showers; Cloudy;Cloudy;Showers;Showers;
+
+
+WESTLAND; Tue 07 Sep 2021; Showers, turning to rain in the afternoon. Northerlies, turning westerly in the afternoon.; Showers; Showers;Showers;Rain;Rain;
+WESTLAND; Wed 08 Sep 2021; Mainly fine with isolated showers, clearing north of Otira in the evening, but remaining partly cloudy there. Southwesterly breezes.; FewShowers; Showers;Fine;PartCloudy;PartCloudy;
+WESTLAND; Thu 09 Sep 2021; Rain, easing in the morning. Westerly breezes, becoming fresh in the morning.; Rain; Rain;Rain;Showers;Showers;
+WESTLAND; Fri 10 Sep 2021; Rain with heavy falls. Fresh northwesterlies, easing to westerly breezes in the morning.; Rain; Rain;Rain;Fine;Fine;
+WESTLAND; Sat 11 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerly breezes developing for a time in the afternoon.; Fine; Fine;Fine;PartCloudy;Cloudy;
+WESTLAND; Sun 12 Sep 2021; Showers, turning to rain for a time in the afternoon. Northerly breezes, becoming fresh in the morning.; Showers; Showers;Showers;Rain;Showers;
+
+
+MARLBOROUGH; Tue 07 Sep 2021; Showers, easing in the morning. Fresh northerlies, easing to westerlies in the evening.; Showers; Wind;FewShowers;Wind;Fine;
+MARLBOROUGH; Wed 08 Sep 2021; Cloudy with scattered rain, clearing to fine with a few clouds in the evening. Southwesterlies, easing to light winds in the evening.; FewShowers; FewShowers;PartCloudy;Showers;Fine;
+MARLBOROUGH; Thu 09 Sep 2021; Fine with a few clouds, then isolated showers developing in the morning. Westerly breezes, becoming fresh in the morning.; FewShowers; Fine;PartCloudy;PartCloudy;Wind;
+MARLBOROUGH; Fri 10 Sep 2021; A few showers, becoming more frequent for a time in the afternoon. Gale northwesterlies, easing to westerlies in the morning.; FewShowers; Wind;Wind;Showers;FewShowers;
+MARLBOROUGH; Sat 11 Sep 2021; Fine with a few clouds, then becoming cloudy with scattered rain developing inland in the evening. Northerly breezes about the coast developing in the evening.; FewShowers; Fine;Fine;PartCloudy;FewShowers;
+MARLBOROUGH; Sun 12 Sep 2021; Partly cloudy. Northwesterlies developing in the morning.; PartCloudy; Fine;Fine;PartCloudy;PartCloudy;
+
+
+CHRISTCHURCH; Tue 07 Sep 2021; Fine, becoming mostly cloudy in the afternoon. Fresh northerlies, easing to southwesterly breezes in the evening.; PartCloudy; Fine;Wind;Wind;PartCloudy;
+CHRISTCHURCH; Wed 08 Sep 2021; A few showers, clearing to fine in the afternoon. Fresh southwesterlies, easing to westerly breezes in the evening.; Showers; Cloudy;Wind;Wind;Fine;
+CHRISTCHURCH; Thu 09 Sep 2021; Partly cloudy, becoming fine in the evening. Fresh northerlies, rising to strong northwesterlies for a time in the afternoon.; Fine; PartCloudy;Wind;Wind;Fine;
+CHRISTCHURCH; Fri 10 Sep 2021; Cloudy, then showers developing in the morning. Fresh northwesterlies, easing to southeasterlies for a time in the afternoon.; Showers; Wind;Cloudy;Showers;Rain;
+CHRISTCHURCH; Sat 11 Sep 2021; Fine, becoming partly cloudy about Banks Peninsula in the evening. Southwesterlies, turning easterly in the morning.; Fine; Fine;Fine;Fine;Fine;
+CHRISTCHURCH; Sun 12 Sep 2021; Mostly cloudy, becoming fine in the morning. Northerly breezes, becoming fresh in the morning.; PartCloudy; Fine;Cloudy;Fine;Wind;
+
+
+CANTERBURY PLAINS; Tue 07 Sep 2021; Fine with a few clouds, then isolated showers developing about the coast in the afternoon. Fresh northerlies, easing to northwesterly breezes in the afternoon.; FewShowers; Fine;Fine;PartCloudy;PartCloudy;
+CANTERBURY PLAINS; Wed 08 Sep 2021; A few showers, clearing to fine in the afternoon. Southwesterlies, easing to light winds in the evening.; Showers; Showers;Showers;Fine;Fine;
+CANTERBURY PLAINS; Thu 09 Sep 2021; Fine with a few clouds. Northwesterlies, becoming fresh in the morning.; Fine; Fine;PartCloudy;Fine;Fine;
+CANTERBURY PLAINS; Fri 10 Sep 2021; A few showers, becoming more frequent with some heavy in the evening. Northwesterlies, becoming light for a time in the afternoon.; FewShowers; PartCloudy;FewShowers;FewShowers;Showers;
+CANTERBURY PLAINS; Sat 11 Sep 2021; Fine with a few clouds. Easterly breezes developing in the morning.; Fine; Fine;Fine;Fine;Fine;
+CANTERBURY PLAINS; Sun 12 Sep 2021; Fine with a few clouds. Northerlies, becoming fresh in the evening.; Fine; Fine;Fine;Fine;Fine;
+
+
+NORTH OTAGO; Tue 07 Sep 2021; Partly cloudy, then showers developing in the afternoon. Northerlies, turning southwesterly in the afternoon.; Showers; Fine;Fine;Showers;Showers;
+NORTH OTAGO; Wed 08 Sep 2021; Showers at first, clearing to fine with a few clouds in the morning. Strong westerlies, easing in the afternoon.; FewShowers; Showers;Wind;Cloudy;Fine;
+NORTH OTAGO; Thu 09 Sep 2021; Partly cloudy, becoming fine north of Oamaru for a time in the afternoon. Northwesterlies, becoming strong in the morning.; PartCloudy; Fine;PartCloudy;Wind;Wind;
+NORTH OTAGO; Fri 10 Sep 2021; Showers, becoming drizzle inland for a time in the afternoon. Westerlies developing in the morning.; Showers; Showers;FewShowers;Showers;Fine;
+NORTH OTAGO; Sat 11 Sep 2021; Fine, becoming mostly cloudy in the morning. Westerlies, easing to light winds in the morning.; PartCloudy; Fine;Fine;Cloudy;Cloudy;
+NORTH OTAGO; Sun 12 Sep 2021; Fine with high cloud. Northerly breezes, becoming fresh in the morning.; PartCloudy; Fine;PartCloudy;PartCloudy;Wind;
+
+
+DUNEDIN; Tue 07 Sep 2021; Partly cloudy, then showers for a time in the afternoon and evening. Northerly breezes, rising to fresh westerlies in the afternoon.; Showers; Cloudy;Fine;Showers;Showers;
+DUNEDIN; Wed 08 Sep 2021; A few showers at first, clearing in the morning, but remaining partly cloudy. Strong westerlies, easing in the evening.; Wind; Wind;Wind;Wind;Fine;
+DUNEDIN; Thu 09 Sep 2021; Partly cloudy, then showers developing in the evening. Fresh westerlies, rising to gale northwesterlies for a time in the afternoon.; FewShowers; PartCloudy;Cloudy;Wind;Showers;
+DUNEDIN; Fri 10 Sep 2021; Rain, easing for a time in the afternoon. Westerlies, becoming fresh for a time in the afternoon.; Showers; Rain;Fine;Showers;Fine;
+DUNEDIN; Sat 11 Sep 2021; Partly cloudy. Westerlies, easing to light winds in the morning.; PartCloudy; Fine;Cloudy;Cloudy;PartCloudy;
+DUNEDIN; Sun 12 Sep 2021; Fine with high cloud. Northerly breezes, rising to strong northwesterlies in the morning.; PartCloudy; Fine;Wind;Wind;Wind;
+
+
+CENTRAL OTAGO; Tue 07 Sep 2021; Partly cloudy with isolated showers, becoming widespread for a time in the afternoon and evening. Westerly breezes developing for a time in the afternoon and evening.; Showers; Showers;Fine;Showers;Showers;
+CENTRAL OTAGO; Wed 08 Sep 2021; Cloudy with scattered rain, clearing to fine with a few clouds in the afternoon. Fresh westerlies, easing to a light breeze in the afternoon.; FewShowers; Showers;FewShowers;Cloudy;Fine;
+CENTRAL OTAGO; Thu 09 Sep 2021; Mostly cloudy, with a few showers developing in the morning. Northwesterly breezes, becoming strong in the morning.; FewShowers; PartCloudy;Cloudy;Wind;Showers;
+CENTRAL OTAGO; Fri 10 Sep 2021; Rain, easing to a few showers in the morning. Westerly breezes.; Showers; Rain;FewShowers;Showers;Fine;
+CENTRAL OTAGO; Sat 11 Sep 2021; Mostly cloudy, with isolated showers developing east of Roxburgh in the evening. Light winds.; Cloudy; Cloudy;Cloudy;Cloudy;PartCloudy;
+CENTRAL OTAGO; Sun 12 Sep 2021; A few showers, clearing in the evening, but remaining partly cloudy. Northerly breezes, rising to strong northwesterlies in the morning.; FewShowers; Fine;Wind;FewShowers;Wind;
+
+
+CLUTHA; Tue 07 Sep 2021; Partly cloudy with isolated showers, becoming widespread for a time in the afternoon and evening. Northwesterly breezes, rising to fresh westerlies for a time in the afternoon and evening.; Showers; FewShowers;PartCloudy;Showers;Showers;
+CLUTHA; Wed 08 Sep 2021; Cloudy with scattered rain, clearing in the afternoon, but remaining mostly cloudy. Strong westerlies, becoming fresh in the evening.; Wind; Wind;Wind;Wind;Wind;
+CLUTHA; Thu 09 Sep 2021; Cloudy with scattered rain, clearing for a time in the afternoon, but remaining mostly cloudy. Strong westerlies, rising to gale northwesterlies for a time in the afternoon.; Wind; Showers;Wind;Wind;WindRain;
+CLUTHA; Fri 10 Sep 2021; Rain, easing to a few showers in the morning. Fresh westerlies, easing in the evening.; FewShowers; Rain;PartCloudy;FewShowers;FewShowers;
+CLUTHA; Sat 11 Sep 2021; Mostly cloudy, with isolated showers developing in the evening. Westerlies, easing to light winds in the evening.; Cloudy; PartCloudy;Cloudy;Cloudy;PartCloudy;
+CLUTHA; Sun 12 Sep 2021; Cloudy, with a few showers developing in the morning. Northerly breezes, rising to strong northwesterlies in the morning.; FewShowers; Fine;Wind;FewShowers;Wind;
+
+
+SOUTHLAND; Tue 07 Sep 2021; Cloudy with scattered rain, becoming widespread for a time in the afternoon and evening. Westerlies developing for a time in the afternoon and evening.; Showers; Showers;Showers;Rain;Showers;
+SOUTHLAND; Wed 08 Sep 2021; Cloudy with scattered rain, clearing for a time in the afternoon and evening, but remaining mostly cloudy. Fresh westerlies.; Showers; Showers;Showers;Cloudy;Showers;
+SOUTHLAND; Thu 09 Sep 2021; Cloudy with scattered rain, becoming widespread in the evening. Gale northwesterlies, easing to fresh westerlies in the evening.; Wind; Showers;Wind;Wind;Rain;
+SOUTHLAND; Fri 10 Sep 2021; Showers, easing to patchy drizzle in the morning. Fresh westerlies, easing in the morning.; Showers; Showers;Drizzle;Showers;FewShowers;
+SOUTHLAND; Sat 11 Sep 2021; Cloudy with patchy drizzle, clearing in the morning, but remaining mostly cloudy. Westerlies, turning northerly in the evening.; Cloudy; PartCloudy;Cloudy;Cloudy;PartCloudy;
+SOUTHLAND; Sun 12 Sep 2021; Mostly cloudy, then showers developing in the morning. Fresh northerlies, rising to strong northwesterlies in the morning.; Showers; Cloudy;Wind;Showers;Wind;
+
+
+CANTERBURY HIGH COUNTRY; Tue 07 Sep 2021; Showers, easing in the morning. Northwesterlies, becoming strong north of Arthur's Pass for a time in the afternoon and evening.; FewShowers; Showers;PartCloudy;FewShowers;FewShowers;
+CANTERBURY HIGH COUNTRY; Wed 08 Sep 2021; A few showers, clearing to fine in the evening. Southwesterly breezes developing in the morning.; FewShowers; FewShowers;FewShowers;FewShowers;Fine;
+CANTERBURY HIGH COUNTRY; Thu 09 Sep 2021; Partly cloudy with isolated showers. Northwesterlies, becoming strong in the morning.; FewShowers; FewShowers;FewShowers;Wind;Wind;
+CANTERBURY HIGH COUNTRY; Fri 10 Sep 2021; Showers, easing to patchy drizzle about the divide for a time in the afternoon. Fresh northwesterlies, easing to westerly breezes in the morning.; Showers; Showers;Showers;Showers;Showers;
+CANTERBURY HIGH COUNTRY; Sat 11 Sep 2021; Fine with a few clouds. Light winds.; PartCloudy; Cloudy;Fine;PartCloudy;Fine;
+CANTERBURY HIGH COUNTRY; Sun 12 Sep 2021; A few showers. Northwesterlies, becoming strong in the morning.; FewShowers; FewShowers;PartCloudy;Wind;Wind;
+
+
+SOUTHERN LAKES; Tue 07 Sep 2021; Cloudy with scattered rain. Northwesterly breezes developing for a time in the afternoon and evening.; Showers; Rain;Showers;Rain;Showers;
+SOUTHERN LAKES; Wed 08 Sep 2021; Cloudy with scattered rain, clearing in the afternoon, but remaining mostly cloudy. Westerly breezes.; Showers; Showers;Showers;Cloudy;PartCloudy;
+SOUTHERN LAKES; Thu 09 Sep 2021; Cloudy with scattered rain. Northwesterly breezes, becoming strong in the morning.; Showers; Showers;Showers;Wind;Wind;
+SOUTHERN LAKES; Fri 10 Sep 2021; Rain, easing to isolated showers and fine breaks for a time in the afternoon. Light winds.; Showers; Rain;Fine;PartCloudy;Fine;
+SOUTHERN LAKES; Sat 11 Sep 2021; Fine with a few clouds, becoming cloudy in the morning. Northerly breezes south of Wanaka developing in the evening.; Cloudy; Cloudy;Fine;Cloudy;Cloudy;
+SOUTHERN LAKES; Sun 12 Sep 2021; Cloudy with scattered rain, becoming widespread in the morning. Northerlies, becoming fresh in the evening.; Showers; Showers;Showers;Rain;Rain;
+
+
+FIORDLAND; Tue 07 Sep 2021; Showers, turning to rain south of Te Anau for a time in the afternoon and evening. Westerly breezes developing in the morning.; Rain; Showers;Rain;Rain;Rain;
+FIORDLAND; Wed 08 Sep 2021; Cloudy with scattered rain, becoming widespread about the south coast in the evening. Westerlies.; Showers; Showers;Cloudy;Cloudy;Showers;
+FIORDLAND; Thu 09 Sep 2021; Rain. Westerlies, rising to strong northwesterlies in the morning.; Rain; Rain;WindRain;Wind;Rain;
+FIORDLAND; Fri 10 Sep 2021; Cloudy with scattered rain, turning to drizzle in the morning. Westerlies, easing to light winds in the evening.; Showers; Showers;Showers;Cloudy;Drizzle;
+FIORDLAND; Sat 11 Sep 2021; Mostly cloudy, with patchy drizzle developing in the morning. Northwesterly breezes developing in the morning.; Cloudy; Cloudy;Cloudy;Cloudy;Cloudy;
+FIORDLAND; Sun 12 Sep 2021; Showers, some heavy, easing in the morning. Fresh northerlies, rising to strong northwesterlies in the morning.; Showers; Rain;WindRain;Wind;Wind;
+Finished at 17:16 Mon 06-Sep-2021 in 16 minutes.
+

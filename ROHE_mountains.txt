@@ -1,0 +1,85 @@
+Model run 2021090612Z
+Started looking for data at 20:00Z
+Loading data off - processing last saved data 
+Location;Valid;Forecast;Icon;Partday Icon;Partday Icon;Partday Icon;Partday Icon
+
+Tongariro National Park; Tue 07 Sep 2021; Cloudy with scattered rain, becoming widespread in the morning. Fresh northerlies, rising to strong northwesterlies in the afternoon.; Rain; Showers;WindRain;Rain;Rain;
+Tongariro National Park; Wed 08 Sep 2021; Cloudy with scattered rain, becoming widespread for a time in the afternoon and evening. Fresh westerlies, easing in the afternoon.; Showers; Cloudy;Rain;Rain;Showers;
+Tongariro National Park; Thu 09 Sep 2021; Cloudy with patchy drizzle, becoming showers for a time in the afternoon and evening. Westerlies, becoming fresh in the morning.; Showers; Cloudy;Cloudy;Showers;Cloudy;
+Tongariro National Park; Fri 10 Sep 2021; Cloudy with scattered rain, becoming widespread in the afternoon. Strong westerlies, rising to gale northwesterlies in the morning.; Wind; Wind;Wind;WindRain;WindRain;
+Tongariro National Park; Sat 11 Sep 2021; A few showers, clearing to fine in the afternoon. Southwesterlies, easing to light winds in the evening.; FewShowers; Showers;FewShowers;FewShowers;Fine;
+Tongariro National Park; Sun 12 Sep 2021; Mostly cloudy. Northwesterly breezes, rising to fresh westerlies for a time.; Cloudy; Fine;Cloudy;Cloudy;Cloudy;
+
+
+Egmont National Park; Tue 07 Sep 2021; Rain with heavy falls, easing to a few showers in the evening. Strong northerlies, easing to fresh westerlies in the afternoon.; Rain; WindRain;WindRain;WindRain;Showers;
+Egmont National Park; Wed 08 Sep 2021; Showers, clearing to fine in the evening. Fresh northwesterlies, rising to gale southwesterlies in the morning.; Wind; Showers;WindRain;Wind;Wind;
+Egmont National Park; Thu 09 Sep 2021; Partly cloudy at first, with a few showers developing in the morning. Strong westerlies, becoming fresh in the afternoon.; FewShowers; Fine;Wind;Wind;Cloudy;
+Egmont National Park; Fri 10 Sep 2021; Cloudy with scattered rain, becoming widespread in the morning. Gale northwesterlies, easing to fresh westerlies in the evening.; Wind; Wind;WindRain;WindRain;Rain;
+Egmont National Park; Sat 11 Sep 2021; A few showers, clearing to fine for a time in the afternoon and evening. Southwesterlies, easing to light winds in the afternoon.; FewShowers; FewShowers;FewShowers;Fine;Fine;
+Egmont National Park; Sun 12 Sep 2021; Partly cloudy, then scattered rain for a time. Westerlies, becoming fresh for a time.; FewShowers; PartCloudy;Cloudy;Showers;FewShowers;
+
+
+Tararua Forest Park; Tue 07 Sep 2021; Showers, with some heavy for a time in the afternoon and evening. Strong northerlies, rising to gale northwesterlies in the afternoon.; Wind; Showers;WindRain;Wind;Wind;
+Tararua Forest Park; Wed 08 Sep 2021; Showers, clearing to fine in the afternoon. Fresh westerlies, easing to southerlies for a time in the afternoon and evening.; Showers; Wind;Rain;Showers;Fine;
+Tararua Forest Park; Thu 09 Sep 2021; Fine at first, then a few showers developing in the morning. Fresh northwesterlies, becoming gale in the morning.; Wind; Fine;Wind;Wind;Wind;
+Tararua Forest Park; Fri 10 Sep 2021; Cloudy with scattered rain, becoming widespread in the morning. Severe gale northwesterlies, becoming strong in the evening.; Wind; Wind;WindRain;WindRain;Showers;
+Tararua Forest Park; Sat 11 Sep 2021; Mainly fine with isolated showers, clearing in the afternoon. Southwesterlies, easing to light winds in the afternoon.; PartCloudy; FewShowers;FewShowers;PartCloudy;Fine;
+Tararua Forest Park; Sun 12 Sep 2021; Fine with a few clouds, then becoming cloudy with scattered rain developing. Fresh northwesterlies, becoming gale.; Wind; Fine;Wind;Wind;Wind;
+
+
+Kahurangi National Park; Tue 07 Sep 2021; Rain with heavy falls, becoming showers in the morning. Fresh northerlies, turning westerly in the afternoon.; Showers; Rain;Showers;Rain;Showers;
+Kahurangi National Park; Wed 08 Sep 2021; Rain, easing to a few showers in the morning. Fresh southwesterlies, easing in the afternoon.; Showers; Rain;Showers;FewShowers;PartCloudy;
+Kahurangi National Park; Thu 09 Sep 2021; Cloudy with scattered rain, becoming widespread for a time in the afternoon and evening. Westerlies, becoming fresh in the morning.; Showers; Showers;Showers;Rain;Showers;
+Kahurangi National Park; Fri 10 Sep 2021; Showers, some heavy, easing in the evening. Fresh westerlies, easing in the afternoon.; Showers; Showers;WindRain;Rain;Showers;
+Kahurangi National Park; Sat 11 Sep 2021; A few showers at first, clearing to fine in the morning. Southwesterly breezes.; FewShowers; FewShowers;Fine;Fine;Fine;
+Kahurangi National Park; Sun 12 Sep 2021; Cloudy with scattered rain. Westerlies, becoming fresh for a time.; Showers; Showers;Showers;Showers;Showers;
+
+
+Paparoa National Park; Tue 07 Sep 2021; Rain with heavy falls, easing in the morning. Strong northerlies, easing to fresh westerlies in the afternoon.; Rain; WindRain;WindRain;Rain;Rain;
+Paparoa National Park; Wed 08 Sep 2021; Rain, easing to a few showers in the morning. Southwesterlies, becoming strong in the morning.; Showers; Rain;WindRain;Wind;PartCloudy;
+Paparoa National Park; Thu 09 Sep 2021; Rain. Westerlies, becoming fresh in the morning.; Rain; Rain;Rain;Rain;Rain;
+Paparoa National Park; Fri 10 Sep 2021; Rain with heavy falls, easing in the afternoon. Fresh westerlies, easing to southwesterly breezes in the evening.; Rain; WindRain;Rain;Rain;Rain;
+Paparoa National Park; Sat 11 Sep 2021; A few showers at first, clearing to fine in the morning. Westerly breezes developing in the morning.; FewShowers; FewShowers;Fine;Fine;PartCloudy;
+Paparoa National Park; Sun 12 Sep 2021; Drizzle, becoming scattered rain later. Northerly breezes, rising to fresh northwesterlies for a time.; Showers; Drizzle;Showers;Drizzle;Showers;
+
+
+Nelson Lakes National Park; Tue 07 Sep 2021; Rain, becoming showers in the west in the evening. Northerlies, turning westerly in the afternoon.; Rain; Rain;Rain;Rain;Rain;
+Nelson Lakes National Park; Wed 08 Sep 2021; Showers, clearing in the evening, but becoming mostly cloudy. Westerly breezes.; Showers; Rain;Showers;Showers;Cloudy;
+Nelson Lakes National Park; Thu 09 Sep 2021; Cloudy with scattered rain, becoming widespread for a time in the afternoon and evening. Westerly breezes, rising to fresh northwesterlies in the evening.; Showers; Cloudy;Showers;Rain;Showers;
+Nelson Lakes National Park; Fri 10 Sep 2021; Rain with heavy falls, easing in the evening. Northwesterlies, becoming light in the evening.; Showers; Rain;Rain;Rain;Showers;
+Nelson Lakes National Park; Sat 11 Sep 2021; Fine with a few clouds, becoming cloudy in the east in the evening. Westerly breezes developing for a time in the afternoon and evening.; Fine; Cloudy;Fine;Fine;Cloudy;
+Nelson Lakes National Park; Sun 12 Sep 2021; Mostly cloudy, with patchy drizzle developing. Northwesterlies.; Cloudy; Cloudy;Cloudy;Cloudy;Drizzle;
+
+
+Arthurs Pass National Park; Tue 07 Sep 2021; Rain with heavy falls, easing in the morning. Fresh northwesterlies.; Rain; Rain;Rain;Rain;Rain;
+Arthurs Pass National Park; Wed 08 Sep 2021; Rain at first, clearing to fine with a few clouds in the morning. Northwesterly breezes.; Showers; Rain;PartCloudy;Fine;Fine;
+Arthurs Pass National Park; Thu 09 Sep 2021; Cloudy with scattered rain, becoming widespread in the morning. Fresh northwesterlies, becoming strong in the evening.; Rain; Showers;Rain;Rain;WindRain;
+Arthurs Pass National Park; Fri 10 Sep 2021; Rain with heavy falls, easing in the afternoon. Fresh northwesterlies, easing in the morning.; Showers; Rain;Rain;Rain;Cloudy;
+Arthurs Pass National Park; Sat 11 Sep 2021; Fine with a few clouds. Northwesterly breezes developing for a time in the afternoon and evening.; Fine; Cloudy;Fine;Fine;Cloudy;
+Arthurs Pass National Park; Sun 12 Sep 2021; Cloudy with scattered rain, becoming widespread. Fresh northwesterlies, becoming strong for a time.; Showers; Cloudy;Showers;WindRain;Rain;
+
+
+Aoraki Mt Cook and Westland National Parks; Tue 07 Sep 2021; Rain with heavy falls, easing in the afternoon. Northerlies, turning westerly for a time in the afternoon and evening.; Rain; Rain;Rain;Rain;Rain;
+Aoraki Mt Cook and Westland National Parks; Wed 08 Sep 2021; A few showers at first, clearing to fine in the morning. Light winds, but strong southwesterlies near the coast.; FewShowers; Showers;Fine;Fine;Fine;
+Aoraki Mt Cook and Westland National Parks; Thu 09 Sep 2021; Showers, turning to rain in the morning. Northwesterly breezes, rising to fresh westerlies for a time in the afternoon and evening.; Rain; Showers;Rain;Rain;Rain;
+Aoraki Mt Cook and Westland National Parks; Fri 10 Sep 2021; Rain with heavy falls, easing to a few showers in the afternoon. Fresh westerlies, easing to southwesterly breezes in the morning.; Showers; Rain;Rain;Rain;PartCloudy;
+Aoraki Mt Cook and Westland National Parks; Sat 11 Sep 2021; Fine, becoming partly cloudy in the afternoon. Southwesterly breezes developing for a time in the afternoon and evening.; Fine; Fine;Fine;PartCloudy;Fine;
+Aoraki Mt Cook and Westland National Parks; Sun 12 Sep 2021; Showers, turning to rain with heavy falls. Northeasterly breezes, rising to fresh northerlies.; Showers; Cloudy;Rain;Rain;Rain;
+
+
+Mt Aspiring National Park; Tue 07 Sep 2021; Rain with heavy falls, becoming showers in the afternoon. Northerly breezes.; Rain; Rain;Rain;Showers;Rain;
+Mt Aspiring National Park; Wed 08 Sep 2021; Mainly fine with isolated showers, clearing for a time in the afternoon and evening. Westerly breezes developing for a time in the afternoon and evening.; FewShowers; Cloudy;Fine;Fine;FewShowers;
+Mt Aspiring National Park; Thu 09 Sep 2021; Rain, with heavy falls in the evening. Northwesterlies developing in the morning.; Rain; Rain;Rain;Rain;Rain;
+Mt Aspiring National Park; Fri 10 Sep 2021; Rain, clearing in the evening, but remaining mostly cloudy. Northwesterly breezes.; Showers; Rain;Rain;Rain;Cloudy;
+Mt Aspiring National Park; Sat 11 Sep 2021; Fine with a few clouds, becoming cloudy in the west in the evening. Light winds.; PartCloudy; Fine;Fine;PartCloudy;Cloudy;
+Mt Aspiring National Park; Sun 12 Sep 2021; Showers, turning to rain with heavy falls. Northerly breezes, becoming fresh later.; Rain; Showers;Rain;Rain;Rain;
+
+
+Fiordland National Park; Tue 07 Sep 2021; Rain with heavy falls, easing in the morning. Fresh westerlies, but northwesterly breezes inland.; Rain; Rain;Rain;Rain;Rain;
+Fiordland National Park; Wed 08 Sep 2021; A few showers, becoming more frequent in the evening. Fresh southwesterlies, but westerly breezes inland.; FewShowers; FewShowers;FewShowers;FewShowers;Showers;
+Fiordland National Park; Thu 09 Sep 2021; Rain with heavy falls, easing for a time in the afternoon and evening. Strong northwesterlies, but northwesterlies inland.; Wind; Rain;Rain;Rain;WindRain;
+Fiordland National Park; Fri 10 Sep 2021; Showers, easing in the evening. Westerlies, easing to light winds north of Te Anau in the afternoon.; Showers; Rain;Showers;Showers;FewShowers;
+Fiordland National Park; Sat 11 Sep 2021; Mostly cloudy, with drizzle developing about the Fiords in the evening. Southwesterly breezes, rising to fresh northerlies about the south coast in the afternoon.; FewShowers; FewShowers;Fine;Cloudy;Cloudy;
+Fiordland National Park; Sun 12 Sep 2021; Showers, turning to rain with heavy falls for a time. Fresh northerlies, easing to westerlies later.; Rain; Showers;Rain;Rain;Rain;
+Finished at 20:03 Mon 06-Sep-2021 in 3 minutes.
+
